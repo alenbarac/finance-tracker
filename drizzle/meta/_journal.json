@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1727634910827,
+      "tag": "0000_brief_yellowjacket",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1727635887824,
+      "tag": "0001_magical_marvel_boy",
+      "breakpoints": true
+    }
+  ]
+}
